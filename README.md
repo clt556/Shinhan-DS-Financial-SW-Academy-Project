@@ -55,8 +55,8 @@ Hikari CP 생성 -> MyBatis 연동
 
 2.SqlSessionFactory 의존성으로부터 객체를 주입받아 위에서 설정한 HikariDataSource 주입객체를 SqlSessionFactory 주입 객체의 datasource 값으로 설정
 
-3.2로부터 생성한 SqlSessionFactory 주입객체를 SqlSessionTemplate 의존성으로부터 주입받은 객체의 parameter로써 지정해서, 객체를 return
--------------------------------------------------------------------------------------------------------------------------------------
+3. 2로부터 생성한 SqlSessionFactory 주입객체를 SqlSessionTemplate 의존성으로부터 주입받은 객체의 parameter로써 지정해서, 객체를 return
+------------------------------------------------------------------------------------------------------------------------------------
 
 또한 페이징 기능을 구현하였으며, 이 역시 api로 DB (MYSQL, Limit 문법을 사용해서 손쉽게 페이징 , CRUD의 R을 수행)에서 데이터를 가져옴
 (화살표를 누르면 페이징 처리를 위한 상태를 api로 전달하고, api는 그 정보를 토대로 api를 요청하며, 따라서 mapper.xml 파일에 PreparedStatement를 사용하여 구현하였음)
