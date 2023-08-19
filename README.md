@@ -24,3 +24,10 @@ SSO 로그인
 
 
 
+작성한 여행 계획 보기 메뉴
+![9](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/b2f0062f-63ba-4e31-a648-2a6332fdda78)
+![10](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/d7941d85-d976-4021-aac6-6710fad0b4f3)
+
+
+
+DB가 소실된 상태에
