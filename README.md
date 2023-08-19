@@ -50,7 +50,8 @@ DB가 소실된 상태라서 실행은 불가능, 따라서 과거의 실행 기
 해당 작업들은 스프링 프레임워크의 CRUD 작업들로써, 의존성을 위한 라이브러리 import (스프링 프레임워크이니 Maven의 dependency 태그를 사용)를 통해 DB 설정을 하고, DB와 api 통신을 함
 
 --스프링 프레임워크의 DB 설정에 대한 복습--
-Hikari CP 생성 -> MyBatis 연동
+Hikari CP 생성 -> MyBatis 연동으로 크게 작업을 이분할 수 있다.
+
 1.Hikari Config : dependency로 의존성을 프로젝트에 형성하고, MVcConfig 파일을 config 폴더에 만들어 HikariDataSource 의존성으로부터 객체를 주입받아 DB에 연결하기 위해 jdbcurl, driverclassname, db의 username와 password를 설정함
 
 2.SqlSessionFactory 의존성으로부터 객체를 주입받아 위에서 설정한 HikariDataSource 주입객체를 SqlSessionFactory 주입 객체의 datasource 값으로 설정
