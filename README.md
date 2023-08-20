@@ -20,6 +20,9 @@ SSO 로그인
 ![3](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/c82370c7-e96a-4934-b73d-0b27dfaff7f1)
 ![6](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/2def2557-e0f2-475f-8f6f-548b5c6399f2)
 ![localhost_main_plan_index do (2)](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/871e6a98-5f6a-4367-8ca3-df8ffd320f97)
+
+본 서비스는 서비스에 가입한 회원들을 대상으로 특수한 결제 카드를 제공하고, 그 카드로 여행지에 가서 결제를 할 시,
+실제 여행지에서 결제한 내역에 대해 포인트 혜택을 제공한다는 배경으로 기획되었다.
 ![localhost_main_plan_index do (3)](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/d664f9c2-7553-4ef9-9b79-808368932211)
 
 
