@@ -88,4 +88,5 @@ Hikari CP 생성 -> MyBatis 연동으로 크게 작업을 이분할 수 있다.
 ![adsadsadsa](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/c620a4ca-e5e7-4da5-8219-b8634574e8d7)
 ![1차 프로젝트 - 임시](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/2c655dd1-3654-4326-8705-af6b5aaf0395)
 
+![프로젝트 처음에 맡은 파트 디자인해온거](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/70910cbb-60f2-4790-8b10-4c79900dc96f)
 
