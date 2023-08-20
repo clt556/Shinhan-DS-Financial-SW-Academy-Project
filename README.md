@@ -85,7 +85,14 @@ Hikari CP 생성 -> MyBatis 연동으로 크게 작업을 이분할 수 있다.
 ![image](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/5a6b83aa-457c-462e-bb5c-1b17276ada0d)
 ![image (1)](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/1fcfacc7-b54c-496c-a573-f4b2f79bd708)
 
+--
+사용기술 모음
+--
 ![adsadsadsa](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/c620a4ca-e5e7-4da5-8219-b8634574e8d7)
+
+--
+ERD Cloud를 활용하여 데이터 구조 설계
+--
 ![1차 프로젝트 - 임시](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/2c655dd1-3654-4326-8705-af6b5aaf0395)
 
 --
