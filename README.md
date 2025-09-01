@@ -1,4 +1,4 @@
-# 신한 DS  SW아카데미 1차 프로젝트 We go
+# Shinhan DS  SWAcademy Project  "We go"
 
 SSO Login
 ![1](https://github.com/clt556/Shinhan-DS-Financial-SW-Academy-Project/assets/116059720/70a255d9-e64d-4cf1-8005-b671d7420267)
